@@ -23,8 +23,8 @@ YouTube link: https://youtu.be/PUT_YOUR_VIDEO_LINK_HERE
 - **diagram.png** (optional) — concept diagram
 
 ## Team
-- Bruther  
-- (friend’s name if needed)
+- Kavindran Aravindhan  
+- Daniil Ansimov
 
 ## Safety Notes
 - Electrolysis should only use low voltage (AA or 9V battery)
